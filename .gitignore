@@ -1,0 +1,11 @@
+# Virtual environment
+myenv/
+
+# Python compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# System files
+.DS_Store
+Thumbs.db
